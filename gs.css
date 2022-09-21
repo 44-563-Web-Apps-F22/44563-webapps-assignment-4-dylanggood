@@ -1,0 +1,16 @@
+p.direction:hover {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: small;
+    text-decoration-color: black;
+    background-color: aquamarine;
+    
+}
+
+p.song {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: medium;
+    text-decoration-color: black;
+    background-color: aquamarine;
+    text-indent: 2em;
+
+}
