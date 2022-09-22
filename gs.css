@@ -1,4 +1,4 @@
-div.direction:hover {
+.direction:hover {
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     font-size: small;
     text-decoration-color: black;
@@ -6,7 +6,7 @@ div.direction:hover {
     
 }
 
-div.song {
+.song {
     font-family: 'Courier New', Courier, monospace;
     font-size: medium;
     text-decoration-color: black;
@@ -14,3 +14,6 @@ div.song {
     text-indent: 2em;
 
 }
+table, th, td {
+    border: 1px solid;
+  }
