@@ -18,4 +18,12 @@ table, th, td {
     border: 1px solid green;
     text-align: left;
     padding: 25px;
-  }
+}
+h4:hover {
+    text-shadow: 2px 2px grey;
+    border: 1px solid green;;
+}
+h5:hover {
+    text-shadow: 2px 2px grey;
+    border: 1px solid green;
+}
